@@ -1,5 +1,5 @@
 #Lucy-Voice-Assistant
-#python
+#Open SouceProject
 import subprocess
 import wolframalpha
 import pyttsx3
