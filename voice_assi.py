@@ -1,5 +1,4 @@
-#voice-Assistant
-#sidhu
+#Lucy-Voice-Assistant
 import subprocess
 import wolframalpha
 import pyttsx3
