@@ -1,5 +1,5 @@
 #Lucy-Voice-Assistant
-#python
+#using python
 import subprocess
 import wolframalpha
 import pyttsx3
@@ -35,7 +35,7 @@ def wishMe():
     else:
         speak("Good Evening Sir !")
 
-    assname = ("Shah Rukh Khan")
+    assname = ("Professor")
     speak("I am your Assistant")
     speak(assname)
 
