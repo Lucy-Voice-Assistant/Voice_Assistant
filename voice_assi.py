@@ -90,7 +90,7 @@ if __name__ == '__main__':
             speak('Searching Wikipedia...')
             query = query.replace("wikipedia", "")
             results = wikipedia.summary(query, sentences=3)
-            speak("According to Wikipedia")
+            speak("According to Wikipedia") #Search Result
             speak(results)
 
         elif 'youtube' in query:
